@@ -1,0 +1,50 @@
+/* You can add global styles to this file, and also import other style files */
+.fas.fa-chevron-right {
+    text-align: center;
+    background-color: #4285f4;
+    color: white;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    font-size: 25px;
+    margin-left: 10px;
+    
+    padding: 10px;
+}
+.fas.fa-chevron-left {
+    text-align: center;
+    background-color: #4285f4;
+    color: white;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    font-size: 25px;
+    margin-right: 20px;
+    padding: 10px;
+}
+.controls-top {
+    text-align: center;
+    margin-top:30px;
+    margin-bottom: 20px;
+}
+
+.navbar.navbar-expand-lg.navbar-dark.intro-fixed-nav.fixed-top.scrolling-navbar.top-nav-collapse {
+    background-color: #212121;
+    border-top: 4px solid #81c83c;
+    #logo{
+        height:58px;
+        margin-top:-28px;
+        
+    }
+}
+.carousel-control-next-icon {
+    background-color: #81c83c !important;
+    border-radius: 50%;
+}
+.carousel-control-prev-icon{
+    background-color: #81c83c !important;
+    border-radius: 50%;
+}
+body{
+    scroll-behavior: smooth;
+}

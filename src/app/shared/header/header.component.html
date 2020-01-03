@@ -1,0 +1,34 @@
+<div class="lineabovenav"></div>
+<!--Navbar-->
+<mdb-navbar SideClass="navbar navbar-expand-lg navbar-dark intro-fixed-nav fixed-top scrolling-navbar"   [containerInside]="false" >
+
+    <!-- Navbar brand -->
+    
+    <mdb-navbar-brand><a class="navbar-brand logo" href="#"><img id="logo" src="./../../../assets/image/bgforweb.jpg"></a></mdb-navbar-brand>
+    <links>
+      
+      <!-- Links -->
+      <ul class="navbar-nav m-auto">
+        <li class="nav-item active">
+          <a class="nav-link waves-light" mdbWavesEffect (click)='home()'>Home<span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item" >
+          <a class="nav-link waves-light" mdbWavesEffect (click)='aboutus()'>About US</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link waves-light" mdbWavesEffect (click)='portfolio()'>Portfolio</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link waves-light" mdbWavesEffect (click)='services()'>Services</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link waves-light" mdbWavesEffect (click)='contactUs()'>Contact Us</a>
+        </li>
+      </ul>
+      <!-- Links -->
+    
+    </links>
+    <!-- Collapsible content -->
+  
+  </mdb-navbar>
+  <!--/.Navbar-->

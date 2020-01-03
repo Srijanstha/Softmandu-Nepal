@@ -1,0 +1,130 @@
+.bg{
+    background: url(../../assets/image/bghome2.jpg);
+    width: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.message{
+    color: white !important;
+    padding-top: 20%;
+    text-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    font-family: 'JaapokkiRegular';
+    letter-spacing: 0.5px;
+    font-size: 48px;
+}
+.submsg{
+    color: white;
+    width: 45%;
+    margin: auto;
+    line-height: 1.5;
+}
+.btn{
+    border-radius: 50px;
+    padding: 10px 30px;
+    color: white;
+    border: solid 1px white;
+    margin-left: 44%;
+}
+.btn:hover{
+    background: #81c83c !important;
+}
+.system{
+    font-size: 42px;
+    border-right: 2px solid #959595;
+    color: #959595;
+    padding-right: 7px;
+}
+.service{
+    padding-left: 17px;
+}
+.hov:hover i{
+    color: #81c83c;
+}
+.row img{
+    width: 99px;
+    height: 113px;
+    margin-left: 44px;
+}
+.data1 .for_img{
+    background:url('./../../assets/image/design.jpg');
+    background-size: cover;
+    margin-right: 20px;
+    height:105px;
+    width:92px;
+    margin-left: 70px;
+    margin-top: 10px;
+}
+.for_img i{
+    font-size: 35px;
+    color:#212121;
+    text-align: center;
+    margin-left: 27px;
+    margin-top: 35px;
+}
+.for_img i:hover {
+    color:red ;
+    
+}
+.data1 h3{
+    color:coral;
+    
+}
+.row h3,p{
+    font-size: 16px;
+    text-align: center;
+}
+.fab.fa-android {
+    margin-left: 30px !important;
+}
+.fas.fa-shopping-cart {
+    font-size: 28px !important;
+    margin-top: 38px !important;
+}
+.far.fa-lightbulb {
+    margin-left: 33px !important;
+}
+.col h3{
+    font-weight: bold;
+    margin-top: 20px;
+}
+.one{
+    background: url(../../assets/image/bg3.jpeg);
+    width: 100%;
+    height: 60vh;
+    background-size: cover; 
+}
+.two{
+    background: #f4f4f4;
+}
+.two{
+    text-align: center;
+}
+.whyus{
+    margin-top: 17%;
+}
+.col p{
+    padding: 5px;
+    line-height: 29px;
+}
+.btndwn{
+    border-radius: 50px;
+    padding: 10px 30px;
+    background-color: #81c83c;
+    border: solid 1px #81c83c;
+    color: white;
+}
+.knowushome{
+    overflow: hidden;
+}
+.valued_customer{
+    margin-top: 30px;
+  }
+  .valued_customer .wrap{
+    padding: 50px 0;
+  }
+  .wrap h4{
+    font-size: 20px;
+    color: #81c83c;
+    font-weight: bold;
+  }

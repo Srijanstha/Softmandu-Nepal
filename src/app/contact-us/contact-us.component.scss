@@ -1,0 +1,67 @@
+.bg{
+    background: url(../../assets/image/xyz.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 60vh;
+    width: 100%;
+}
+.bg h1{
+    font-weight: bold;
+    margin-left: 45%;
+    display: inline-block;
+    margin-top: 14%;
+    color: white;
+    padding: 10px;
+}
+.container{
+    height:auto;
+}
+.softform{
+    margin-top:30px;
+}
+.text-center.ng-untouched.ng-pristine.ng-valid{
+    width: 50%;
+    margin: auto;
+}
+.circle{
+    width: 100px;
+    height: 100px;
+    background-color: #81c860 !important;
+    border-radius: 100%;
+}
+.circle:hover {
+    background-color: coral !important;
+}
+.fa, .fas {
+    margin: 38%;
+    color: white;
+    font-size: 30px;
+}
+a{
+    text-decoration: none;
+    color: black !important;
+}
+.col{
+    margin-left: 63px;
+}
+.last{
+    margin-left: 80px !important;
+}
+.two.col {
+    margin-left: 102px;
+}
+.mt-3 {
+    color: forestgreen !important;
+    margin-left: 36px;
+}
+h3::first-letter{
+    font-weight: bold !important;
+    font-size: 40px !important;
+    color:coral !important;
+}
+.write{
+    margin-left: 10px !important;
+}
+.fas.fa-envelope {
+    margin-left: 36px !important;
+}
